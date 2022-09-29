@@ -1,9 +1,12 @@
-##### Welcome to my GitHub profile! 👋
+#### Welcome to my GitHub profile! 👋
 ____
 
-⚡ ...
+- 🌱
+- ⚡ ...
+- 📚
+- 📈 Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
 
-- 📫 [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
+- 📫 Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
 
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/vladimir-marchuk/>
