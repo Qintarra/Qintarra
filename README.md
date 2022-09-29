@@ -1,10 +1,17 @@
-#### Welcome to my GitHub profile! 👋
+### Welcome to my GitHub profile! 👋
 ____
 
 - 🌱
 - ⚡ ...
 - 📚
-- 📈 Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
+- :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
+
+<div>
+    <a href ="https://github.com/Qintarra/Appium">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+    <a href ="https://github.com/Qintarra/Appium">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>&nbsp;
+</div> 
 
 - 📫 Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
 
