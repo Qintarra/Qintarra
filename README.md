@@ -7,10 +7,16 @@ ____
 - :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
 
 <div>
+    <p align='center'>
     <a href ="https://github.com/Qintarra/Appium">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
     <a href ="https://github.com/Qintarra/Appium">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>&nbsp;
+     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>&nbsp;
+     <a href ="https://github.com/Qintarra/Git-bash-commands">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Android Studio" width="40" height="40"/>&nbsp;
+     <p>
 </div> 
 
 - 📫 Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
