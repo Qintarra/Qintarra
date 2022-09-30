@@ -29,9 +29,9 @@ ____
        <a href ="https://www.linkedin.com/learning/certificates/91e2a5a5b45a8fbf391f5ba67f8d5f7a5addcffc06988a904f718baf2d5923e5?u=106534538"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40" height="40"/> 
      <p>
-</div> 
+</div>    
 
-- :mailbox: You can reach me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
+- 📫 Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
 
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/vladimir-marchuk/>
