@@ -20,6 +20,10 @@ ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
        <a href ="https://github.com/Qintarra/Jenkins">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>&nbsp;
+       <a href ="https://github.com/Qintarra/SQL/tree/main/MySQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
+       <a href ="https://github.com/Qintarra/SQL/tree/main/PostgreSQL">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
      <p>
 </div> 
 
