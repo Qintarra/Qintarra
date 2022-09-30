@@ -9,7 +9,7 @@ ____
 <div>
     <p align='center'>
     <a href ="https://github.com/Qintarra/Appium">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" width="40" height="40"/>&nbsp;
     <a href ="https://github.com/Qintarra/Appium">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>&nbsp;
      <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
@@ -24,10 +24,14 @@ ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>&nbsp;
        <a href ="https://github.com/Qintarra/SQL/tree/main/PostgreSQL">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
+       <a href ="https://github.com/Qintarra/Selenium/tree/master/WebDriver">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium WebDriver" width="40" height="40"/>&nbsp;
+       <a href ="https://www.linkedin.com/learning/certificates/91e2a5a5b45a8fbf391f5ba67f8d5f7a5addcffc06988a904f718baf2d5923e5?u=106534538">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40" height="40"/>&nbsp;
      <p>
 </div> 
 
-- 📫 Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
+- :mailbox: Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
 
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/vladimir-marchuk/>
