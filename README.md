@@ -31,7 +31,7 @@ ____
      <p>
 </div> 
 
-- :mailbox: Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
+- :mailbox: You can reach me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
 
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/vladimir-marchuk/>
