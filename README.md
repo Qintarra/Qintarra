@@ -27,7 +27,8 @@ ____
     </p>  
 </div>
   
-:mailbox: Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
+:mailbox: Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
+        
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/vladimir-marchuk/>
 [tg]: <https://t.me/Qintarra>
