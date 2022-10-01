@@ -2,7 +2,7 @@
 ____
 
 - ⚡ ...
-- :books:
+- :books: I'm a beginner QA engineer and currently learning test automation
 - :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
 
 <div>
