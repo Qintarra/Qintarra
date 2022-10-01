@@ -1,8 +1,8 @@
 ### Welcome to my GitHub profile! 👋
 ____
 
-:books: I'm a beginner QA engineer and currently learning test automation
-:hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
+- :books: I'm a beginner QA engineer and currently learning test automation
+- :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
 
 <div>
     <p align='center'>
@@ -27,7 +27,7 @@ ____
     </p>  
 </div>
   
-:mailbox: Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg].
+- :mailbox: Contact me [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
         
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/vladimir-marchuk/>
