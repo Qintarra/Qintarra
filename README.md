@@ -4,7 +4,6 @@ ____
 - :books: I'm a beginner QA engineer and currently learning test automation
 - :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
 
-<div>
     <p align='center'>
     <a href ="https://github.com/Qintarra/Appium">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>  
@@ -23,9 +22,7 @@ ____
     <a href ="https://github.com/Qintarra/Selenium/tree/master/WebDriver">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" width="40" height="40"/>  
     <a href ="https://www.linkedin.com/learning/certificates/91e2a5a5b45a8fbf391f5ba67f8d5f7a5addcffc06988a904f718baf2d5923e5?u=106534538">    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40" height="40"/>  
-    </p>  
-</div>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40" height="40"/>   
 
 - :mailbox: [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
         
