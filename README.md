@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile! 👋
 ____
 
-- :books: I'm a beginner QA engineer and currently learning test automation
+- :books: I'm a beginner QA Engineer and currently learning Test Automation
 - :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
 
     <p align='center'>
