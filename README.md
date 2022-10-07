@@ -2,11 +2,13 @@
 ____
 
 - :books: I'm a beginner QA Engineer and currently learning Test Automation
-- :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins
+- :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins, JMeter
 
     <p align='center'>
     <a href ="https://github.com/Qintarra/Appium">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>  
+    <a href ="https://github.com/Qintarra/JMeter">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="JMeter" alt="Apache JMeter" width="40" height="40"/> 
     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/Git-bash-commands">
