@@ -8,7 +8,7 @@ ____
     <a href ="https://github.com/Qintarra/Appium">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/JMeter">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="JMeter" alt="Apache JMeter" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="JMeter" alt="Apache JMeter" width="40" height="40"/> 
     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/Git-bash-commands">
