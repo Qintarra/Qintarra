@@ -12,7 +12,7 @@ ____
     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/Git-bash-commands">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/Jenkins">
@@ -27,7 +27,7 @@ ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40" height="40"/>  
     </p>
 
-- :mailbox: [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
+- :mailbox: Contact me: [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
         
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/vladimir-marchuk/>
