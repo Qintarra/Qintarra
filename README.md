@@ -12,9 +12,7 @@ ____
     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/Git-bash-commands">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>  
-    <a href ="https://github.com/Qintarra/JavaScript">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>   
     <a href ="https://github.com/Qintarra/Jenkins">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/SQL/tree/main/MySQL">
