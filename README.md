@@ -7,14 +7,14 @@ ____
     <p align='center'>
     <a href ="https://github.com/Qintarra/Appium">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>  
-    <a href ="https://github.com/Qintarra/JMeter">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="JMeter" alt="Apache JMeter" width="40" height="40"/> 
     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/Git-bash-commands">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>   
     <a href ="https://github.com/Qintarra/Jenkins">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>  
+    <a href ="https://github.com/Qintarra/JMeter">
+  <img src="https://github.com/Qintarra/Qintarra/blob/main/icons/jmeter-square.svg" title="JMeter" alt="Apache JMeter" width="40" height="40"/> 
     <a href ="https://github.com/Qintarra/SQL/tree/main/MySQL">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>  
     <a href ="https://github.com/Qintarra/SQL/tree/main/PostgreSQL">
