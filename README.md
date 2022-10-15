@@ -18,7 +18,7 @@ ____
     <a href ="https://github.com/Qintarra/SQL/tree/main/MySQL">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/SQL/tree/main/PostgreSQL">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="50" height="50"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/Selenium/tree/master/WebDriver">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" width="50" height="50"/>  
     <a href ="https://www.linkedin.com/learning/certificates/91e2a5a5b45a8fbf391f5ba67f8d5f7a5addcffc06988a904f718baf2d5923e5?u=106534538">    
