@@ -6,23 +6,23 @@ ____
 
     <p align='center'>
     <a href ="https://github.com/Qintarra/Appium">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/Git-bash-commands">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50"/>   
     <a href ="https://github.com/Qintarra/Jenkins">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/JMeter">
-  <img src="https://github.com/Qintarra/Qintarra/blob/main/icons/jmeter-square.svg" title="JMeter" alt="Apache JMeter" width="40" height="40"/> 
+  <img src="https://github.com/Qintarra/Qintarra/blob/main/icons/jmeter-square.svg" title="JMeter" alt="Apache JMeter" width="50" height="50"/> 
     <a href ="https://github.com/Qintarra/SQL/tree/main/MySQL">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/SQL/tree/main/PostgreSQL">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/Selenium/tree/master/WebDriver">  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" width="50" height="50"/>  
     <a href ="https://www.linkedin.com/learning/certificates/91e2a5a5b45a8fbf391f5ba67f8d5f7a5addcffc06988a904f718baf2d5923e5?u=106534538">    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="50" height="50"/>  
     </p>
 
 - :mailbox: Contact me: [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
