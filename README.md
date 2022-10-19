@@ -1,8 +1,9 @@
-### Welcome to my GitHub profile! 👋
+### Welcome to my GitHub profile
 ____
 
-- :books: I'm a beginner QA Engineer and currently learning Test Automation
-- :hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins, JMeter
+I'm a beginner QA Engineer and currently learning Test Automation
+### :hammer_and_wrench: Languages and Tools: 
+Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins, JMeter
 
     <p align='center'>
     <a href ="https://github.com/Qintarra/AndroidStudio">
@@ -25,7 +26,13 @@ ____
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="50" height="50"/>  
     </p>
 
-- :mailbox: Contact me: [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
+### :books: Testing Documentation:
+- [Checklists] (https://drive.google.com/drive/folders/1JlxyZicAzbcpt5w05wBpQBQfQ8QE1a-P?usp=sharing)
+- [Bug Reports] (https://drive.google.com/file/d/1zi6a3_LCTUtjZvLuXI5B4FqemtFxN6Y6/view?usp=sharing)
+- [Test Cases] (https://drive.google.com/drive/folders/1Rax4dGh-ChzQmO-okcEYwP8PExrFK0e9?usp=sharing)
+
+### :mailbox: Contact me:  
+[E-mail][email] | [LinkedIn][in] | [Telegram][tg]
         
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/vladimir-marchuk/>
