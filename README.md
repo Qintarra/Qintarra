@@ -3,10 +3,10 @@ ____
 
 I'm a beginner QA Engineer and currently learning Test Automation
 
-:hammer_and_wrench: Languages and Tools: Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins, JMeter  
+- ### :hammer_and_wrench: Languages and Tools:  
 
     <p align='center'>
-    <a href ="https://github.com/Qintarra/AndroidStudio">  
+    <a href ="https://github.com/Qintarra/AndroidStudio">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>    
