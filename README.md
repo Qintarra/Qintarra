@@ -2,15 +2,16 @@
 ____
 
 I'm a beginner QA Engineer and currently learning Test Automation
+
 ### :hammer_and_wrench: Languages and Tools: 
-Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins, JMeter
+Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, DevTools, Jira, Mantis, TestLink, TestRail, MySQL, PostgreSQL, DBeaver, Jenkins, JMeter  
 
     <p align='center'>
-    <a href ="https://github.com/Qintarra/AndroidStudio">
+    <a href ="https://github.com/Qintarra/AndroidStudio">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="50" height="50"/>  
-    <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>  
-    <a href ="https://github.com/Qintarra/Git-bash-commands">
+    <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>    
+    <a href ="https://github.com/Qintarra/Git-bash-commands">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50"/>   
     <a href ="https://github.com/Qintarra/Jenkins">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="50" height="50"/>  
@@ -26,7 +27,7 @@ Git, Visual Studio, C#, Android Studio, Appium, Selenium WebDriver, Postman, Dev
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="50" height="50"/>  
     </p>
 
-### :books: Testing Documentation:
+### :books: Testing Documentation:  
 - [Checklists] (https://drive.google.com/drive/folders/1JlxyZicAzbcpt5w05wBpQBQfQ8QE1a-P?usp=sharing)
 - [Bug Reports] (https://drive.google.com/file/d/1zi6a3_LCTUtjZvLuXI5B4FqemtFxN6Y6/view?usp=sharing)
 - [Test Cases] (https://drive.google.com/drive/folders/1Rax4dGh-ChzQmO-okcEYwP8PExrFK0e9?usp=sharing)
