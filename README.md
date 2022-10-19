@@ -3,8 +3,8 @@ ____
 
 I'm a beginner QA Engineer and currently learning Test Automation
 
-- ### :hammer_and_wrench: Languages and Tools:  
-
+### :hammer_and_wrench: Languages and Tools:  
+-
     <p align='center'>
     <a href ="https://github.com/Qintarra/AndroidStudio">
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="50" height="50"/>  
