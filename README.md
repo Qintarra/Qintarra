@@ -28,7 +28,7 @@ I'm a beginner QA Engineer and currently learning Test Automation.
 
 ### :books: Testing Documentation:  
 - [Checklists](https://drive.google.com/drive/folders/1JlxyZicAzbcpt5w05wBpQBQfQ8QE1a-P?usp=sharing)
-- [Bug Reports](https://drive.google.com/file/d/1zi6a3_LCTUtjZvLuXI5B4FqemtFxN6Y6/view?usp=sharing)
+- [Bug Reports](https://drive.google.com/drive/folders/1wLQwmReiTlt4K97jbaj4oNt23xE0W4ju?usp=sharing)
 - [Test Cases](https://drive.google.com/drive/folders/1Rax4dGh-ChzQmO-okcEYwP8PExrFK0e9?usp=sharing)
 
 ### :mailbox: Contact me:  
