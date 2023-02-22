@@ -33,7 +33,8 @@ I'm a QA Engineer with test automation skills.
 ### :books: Testing Documentation:  
 - [Checklists](https://drive.google.com/drive/folders/1JlxyZicAzbcpt5w05wBpQBQfQ8QE1a-P?usp=sharing)
 - [Bug Reports](https://drive.google.com/drive/folders/1wLQwmReiTlt4K97jbaj4oNt23xE0W4ju?usp=sharing)
-- [Test Cases](https://drive.google.com/drive/folders/1Rax4dGh-ChzQmO-okcEYwP8PExrFK0e9?usp=sharing)
+- [Test Cases](https://drive.google.com/drive/folders/1Rax4dGh-ChzQmO-okcEYwP8PExrFK0e9?usp=sharing)  
+These are just examples from my studies from courses and self-practice. There is no documentation from my work here.
 
 ### :mailbox: Contact me:  
 [E-mail][email] | [LinkedIn][in] | [Telegram][tg]
