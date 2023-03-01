@@ -11,7 +11,9 @@ I'm a QA Engineer with test automation skills.
     <a href ="https://github.com/Qintarra/Appium">
   <img src="https://github.com/qintarra/qintarra/blob/main/icons/appium.svg" title="Appium" width="50" height="50"/>  
     <a href ="https://github.com/Qintarra/C-Sharp/tree/main/Tasks">  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>  
+    <a href ="https://github.com/qintarra/DevTools">
+  <img src="https://github.com/qintarra/qintarra/blob/main/icons/chrome-devtools.svg" title="Appium" width="50" height="50"/> 
     <a href ="https://github.com/Qintarra/Git-bash-commands">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50"/>   
     <a href ="https://github.com/Qintarra/JavaScript">
