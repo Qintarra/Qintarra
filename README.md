@@ -48,4 +48,4 @@ I'm a QA Engineer with test automation skills.
 | <a href="https://github.com/qintarra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qintarra&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/qintarra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qintarra&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![](https://komarev.com/ghpvc/?username=Qintarra&color=32a881)    
+![](https://komarev.com/ghpvc/?username=qintarra&color=32a881)    
