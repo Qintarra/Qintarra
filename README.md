@@ -33,9 +33,9 @@ I'm a QA Engineer with test automation skills.
     </p>
 
 ### :books: Testing Documentation:  
-- [Checklists](https://drive.google.com/drive/folders/1JlxyZicAzbcpt5w05wBpQBQfQ8QE1a-P?usp=sharing)
-- [Bug Reports](https://drive.google.com/drive/folders/1wLQwmReiTlt4K97jbaj4oNt23xE0W4ju?usp=sharing)
-- [Test Cases](https://drive.google.com/drive/folders/1Rax4dGh-ChzQmO-okcEYwP8PExrFK0e9?usp=sharing)  
+- [Checklists](https://drive.google.com/drive/folders/1JlxyZicAzbcpt5w05wBpQBQfQ8QE1a-P)
+- [Bug Reports](https://drive.google.com/drive/folders/1wLQwmReiTlt4K97jbaj4oNt23xE0W4ju)
+- [Test Cases](https://drive.google.com/drive/folders/1Rax4dGh-ChzQmO-okcEYwP8PExrFK0e9)  
 ###### These are just examples from my studies from courses and self-practice. There is no documentation from my work here.
 
 ### :mailbox: Contact me:  
@@ -43,7 +43,7 @@ I'm a QA Engineer with test automation skills.
         
 [email]: <mailto:marchuk151@gmail.com>
 [in]: <https://www.linkedin.com/in/volodymyr-marchuk-/>
-[tg]: <https://t.me/Qintarra>
+[tg]: <https://t.me/qintarra>
 
 | <a href="https://github.com/qintarra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=qintarra&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Pavel's github stats" /></a> | <a href="https://github.com/qintarra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qintarra&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
