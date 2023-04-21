@@ -26,6 +26,8 @@ Hello, I'm a QA Engineer with basic test automation skills.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50"/>  
     <a href ="https://github.com/qintarra/SQL/tree/main/PostgreSQL">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50" height="50"/>  
+    <a href ="https://github.com/qintarra/Postman">
+  <img src="https://github.com/qintarra/qintarra/blob/main/icons/postman.svg" title="Postman" alt="Postman" width="50" height="50"/> 
     <a href ="https://github.com/qintarra/Selenium/tree/master/WebDriver">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium WebDriver" width="50" height="50"/>  
     <a href ="https://www.linkedin.com/learning/certificates/91e2a5a5b45a8fbf391f5ba67f8d5f7a5addcffc06988a904f718baf2d5923e5?u=106534538">    
