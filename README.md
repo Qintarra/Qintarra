@@ -1,7 +1,6 @@
 ### Welcome to my GitHub profile
 ____
 
-Hello, I'm a QA Engineer with basic test automation skills.
 
 ### :hammer_and_wrench: Languages and Tools:  
 -
